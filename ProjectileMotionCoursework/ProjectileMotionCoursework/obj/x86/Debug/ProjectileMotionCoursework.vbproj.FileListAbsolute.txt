@@ -1,0 +1,44 @@
+C:\Users\solomatina09301\AppData\Local\Temporary Projects\ProjectileMotionCoursework\bin\Debug\ProjectileMotionCoursework.exe
+C:\Users\solomatina09301\AppData\Local\Temporary Projects\ProjectileMotionCoursework\bin\Debug\ProjectileMotionCoursework.pdb
+C:\Users\solomatina09301\AppData\Local\Temporary Projects\ProjectileMotionCoursework\bin\Debug\ProjectileMotionCoursework.xml
+C:\Users\solomatina09301\AppData\Local\Temporary Projects\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.Resources.resources
+C:\Users\solomatina09301\AppData\Local\Temporary Projects\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.vbproj.GenerateResource.Cache
+C:\Users\solomatina09301\AppData\Local\Temporary Projects\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.exe
+C:\Users\solomatina09301\AppData\Local\Temporary Projects\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.xml
+C:\Users\solomatina09301\AppData\Local\Temporary Projects\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.pdb
+\\lpbs-file-03\2011$\solomatina09301\visual studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.exe
+\\lpbs-file-03\2011$\solomatina09301\visual studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.xml
+\\lpbs-file-03\2011$\solomatina09301\visual studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.pdb
+\\lpbs-file-03\2011$\solomatina09301\visual studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\bin\Debug\ProjectileMotionCoursework.exe
+\\lpbs-file-03\2011$\solomatina09301\visual studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\bin\Debug\ProjectileMotionCoursework.pdb
+\\lpbs-file-03\2011$\solomatina09301\visual studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\bin\Debug\ProjectileMotionCoursework.xml
+\\lpbs-file-03\2011$\solomatina09301\visual studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.Resources.resources
+\\lpbs-file-03\2011$\solomatina09301\visual studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.vbproj.GenerateResource.Cache
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.exe
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.xml
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.pdb
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\bin\Debug\ProjectileMotionCoursework.exe
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\bin\Debug\ProjectileMotionCoursework.pdb
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\bin\Debug\ProjectileMotionCoursework.xml
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.Resources.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.ProjectileMotionCalculator.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.vbproj.GenerateResource.Cache
+S:\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.exe
+S:\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.xml
+S:\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.pdb
+S:\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\bin\Debug\ProjectileMotionCoursework.exe
+S:\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\bin\Debug\ProjectileMotionCoursework.pdb
+S:\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\bin\Debug\ProjectileMotionCoursework.xml
+S:\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.Form1.resources
+S:\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.Resources.resources
+S:\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.ProjectileMotionCalculator.resources
+S:\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.vbproj.GenerateResource.Cache
+\\lpbs-file-03\2011$\solomatina09301\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.ProjectileMotionCalculator.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.PastPaperManagementForm.resources
+\\lpbs-file-03\2011$\solomatina09301\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.PastPaperManagementForm.resources
+\\lpbs-file-03\2011$\solomatina09301\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.AddPaperForm.resources
+\\lpbs-file-03\2011$\solomatina09301\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.EditPaperForm.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.AddPaperForm.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.EditPaperForm.resources
+C:\Users\Igor\Documents\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.MainMenu.resources
+\\lpbs-file-03\2011$\solomatina09301\Visual Studio 2010\Projects\ProjectileMotionCoursework\ProjectileMotionCoursework\obj\x86\Debug\ProjectileMotionCoursework.MainMenu.resources
